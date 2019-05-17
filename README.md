@@ -1,5 +1,6 @@
 # Open Source Guides
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc9138787f65436598915d8251365e65)](https://app.codacy.com/app/tysang0311/opensource.guide?utm_source=github.com&utm_medium=referral&utm_content=tysang0311/opensource.guide&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/github/opensource.guide.svg?branch=master)](https://travis-ci.org/github/opensource.guide)
 
 Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
